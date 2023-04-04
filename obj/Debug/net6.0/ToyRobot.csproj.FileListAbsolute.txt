@@ -1,0 +1,15 @@
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.csproj.AssemblyReference.cache
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.AssemblyInfo.cs
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\davet\source\repos\GitTest\ToyRobot\bin\Debug\net6.0\ToyRobot.exe
+C:\Users\davet\source\repos\GitTest\ToyRobot\bin\Debug\net6.0\ToyRobot.deps.json
+C:\Users\davet\source\repos\GitTest\ToyRobot\bin\Debug\net6.0\ToyRobot.runtimeconfig.json
+C:\Users\davet\source\repos\GitTest\ToyRobot\bin\Debug\net6.0\ToyRobot.dll
+C:\Users\davet\source\repos\GitTest\ToyRobot\bin\Debug\net6.0\ToyRobot.pdb
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.dll
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\refint\ToyRobot.dll
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.pdb
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ToyRobot.genruntimeconfig.cache
+C:\Users\davet\source\repos\GitTest\ToyRobot\obj\Debug\net6.0\ref\ToyRobot.dll
